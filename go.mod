@@ -1,8 +1,8 @@
-module github.com/the-witcher-knight/envconfig
+module gitlab.com/the-witcher-knight/envconfig
 
-go 1.23.2
+go 1.23.3
 
-require github.com/stretchr/testify v1.9.0
+require github.com/stretchr/testify v1.10.0
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
